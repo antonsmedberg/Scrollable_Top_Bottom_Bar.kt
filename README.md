@@ -1,5 +1,3 @@
-# Scrollable_Top_Bottom_Bar.kt
-
 # Scrollbar Flödesapplikation
 
 Denna applikation är byggd med Jetpack Compose, Kotlins moderna verktyg för att bygga inbyggda användargränssnitt. Den demonstrerar ett scrollbart flöde med en dynamiskt uppträdande och försvinnande Top App Bar och Bottom Navigation Bar baserat på användarens scrollbeteende.
