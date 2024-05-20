@@ -8,6 +8,13 @@ Denna applikation är byggd med Jetpack Compose, Kotlins moderna verktyg för at
 - **Dynamisk Bottom Navigation Bar:** Den nedre navigationsfältet försvinner när användaren scrollar upp och visas när användaren scrollar ner.
 - **Scrollbart Flöde:** En vertikalt scrollbar lista med objekt.
 
+## Demo
+
+<video width="320" height="240" controls>
+  <source src="9104932dce39ce221035be5311ae9382.mp4" type="video/mp4">
+  Din webbläsare stödjer inte videouppspelning.
+</video>
+
 ## Kodöversikt
 
 Applikationens huvudkomponenter är:
