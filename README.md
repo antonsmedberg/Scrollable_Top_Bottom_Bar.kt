@@ -10,10 +10,7 @@ Denna applikation är byggd med Jetpack Compose, Kotlins moderna verktyg för at
 
 ## Demo
 
-<video width="320" height="240" controls>
-  <source src="9104932dce39ce221035be5311ae9382.mp4" type="video/mp4">
-  Din webbläsare stödjer inte videouppspelning.
-</video>
+![Demo av applikationen](8dc305a172.gif)
 
 ## Kodöversikt
 
