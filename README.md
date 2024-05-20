@@ -10,7 +10,9 @@ Denna applikation är byggd med Jetpack Compose, Kotlins moderna verktyg för at
 
 ## Demo
 
-![Demo av applikationen](8dc305a172.gif)
+<p align="center">
+  <img src="8dc305a172.gif" alt="Demo av applikationen" width="600"/>
+</p>
 
 ## Kodöversikt
 
